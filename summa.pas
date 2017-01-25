@@ -17,6 +17,6 @@ begin
 
                 end;
 
-        writeln('�㬬�: ', d);
+        writeln('‘ã¬¬ : ', d);
         writeln();
 end.
