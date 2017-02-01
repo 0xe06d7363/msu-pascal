@@ -5,7 +5,7 @@ var n, k1, k2, k3, s: integer;
 begin
         S := 0;
 
-        writeln('Ç¢•§®‚• §¢† Á®·´†: ');
+        writeln('–í–≤–µ–¥–∏—Ç–µ –¥–≤–∞ —á–∏—Å–ª–∞: ');
 
         read(k1, k2);
 
@@ -27,6 +27,6 @@ begin
 
         until k3 = 0;
 
-        writeln('äÆ´®Á•‚·¢Æ Ê®‰‡: ',S);
+        writeln('–í—Å–µ–≥–æ —á–∏—Å–µ–ª: ',S);
 
 end.
